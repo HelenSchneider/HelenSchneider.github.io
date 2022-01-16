@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Helen Schneider
+## M.Sc. Wirtschaftsingenieurin
 
-You can use the [editor on GitHub](https://github.com/HelenSchneider/Testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*Questions:*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Done is better than perfekt?  Perfekt is better than done? Better perfekt than done?
 
-### Markdown
+*Result:*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. ✔️ DONE 
+2. ↗️ BETTER
+3. 🎯 PERFECT
 
-```markdown
-Syntax highlighted code block
+### Praxiserfahrung
+- ☁️ 07/2020 - heute   **Unternehmensberaterin und Softwareentwicklerin** Frachtwerk GmbH
+- 💿 04/2019 - 04/2020 **Werkstudentin im Bereich der Werkleitung** Robert Bosch GmbH
+- 💾 03/2018 - 05/2018 **Werkstudentin in der industriellen Logistik** L'Oréal Produktion Deutschland GmbH & Co. KG
+- 📖 08/2017 - 02/2018 **Praktikantin in der industriellen Logistik** L'Oréal Produktion Deutschland GmbH & Co. KG
 
-# Header 1
-## Header 2
-### Header 3
+###  Ausbildung
+- 🎓 04/2018 - 08/2020 **Master of Science** Wirtschaftsingenieurwesen
+- ↗️ 10/2013 - 03/2018 **Bachelor of Science** Wirtschaftsingenieurwesen
+- ✔️ 09/2005 - 06/2012 **Allgemeine Hochschulreife**
 
-- Bulleted
-- List
+### Hilfswissenschaftliche Tätigkeiten
+- 🐍 11/2015 - 07/2017 **Projekt Simulation und Messtechnik** Institut für Angewandte Informatik, KIT
+- ☢️ 09/2014 - 11/2015 **Projekt Entsorgungsoptionen für radioaktive Reststoffe** ITAS, KIT
 
-1. Numbered
-2. List
+### Außeruniversitäre Aktivitäten
+- 🏐 04/2014 - 04/2017 **Übungsleiterin Volleyball und Beachvolleyball** Hochschulsport, KIT
+- 🥳 10/2014 - 10/2015 **Referentin der Absolventenfeier 2015** Fachschaft für Wirtschaftswissenschaften, KIT
+- 🧑‍🤝‍🧑 10/2013 - 10/2014 **Team der Absolventenfeier 2015** Fachschaft für Wirtschaftswissenschaften, KIT
 
-**Bold** and _Italic_ and `Code` text
+### Programmiersprachen
+- 🎯 Dart/Flutter
+- ☕ Java
+- 🐍 Python (
 
-[Link](url) and ![Image](src)
-```
+### Sprachen
+- 🎈 Deutsch (Muttersprache)
+- 🥇 C1 - Englisch (Verhandlungssicher)
+- 🥈 B2 - Französisch (fließend)
+- 🥉 B1 - Italienisch (Grundkenntnisse)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Auslandsaufenthalte
+#### 🚂 Frankreich
+- 10/2012 - 03/2013 **Sprachkurs** Association CLEF, Sens
+- 09/2008 - 11/2008 **Austausch** Brigitte Sauzay, Reims
+#### ✈️ USA
+- 09/2004 - 09/2005 **TE Middle School** Berwyn, PA 19312
+- 09/2003 - 09/2004 **TE Hillside Elementary School** Berwyn, PA 19312
 
-### Jekyll Themes
+### Interessen
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HelenSchneider/Testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+🏃‍♀️ Joggen gehen mit meinem Rhodesian Ridgeback 🐶 und bouldern 🧗‍♀️stellen für mich den sportlichen Ausgleich zum
+Arbeitsalltag dar. Je nach Wetter reise ich mit meinem dicken Hund (er ist nicht dick) dann auch mal
+ins sonnige Italien 🌞 oder in die schneebedeckte Schweiz ❄️.
