@@ -44,7 +44,7 @@ Done is better than perfekt?  Perfekt is better than done? Better perfekt than d
   - Hochschulsport, KIT
 - 🥳 10/2014 - 10/2015 **Referentin der Absolventenfeier 2015** 
   - Fachschaft für Wirtschaftswissenschaften, KIT
-- 🧑‍🤝‍🧑 10/2013 - 10/2014 **Team der Absolventenfeier 2015**
+- 🧑‍🤝‍🧑 10/2013 - 10/2014 **Team der Absolventenfeier 2014**
   - Fachschaft für Wirtschaftswissenschaften, KIT
 
 ### Sprachen
