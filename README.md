@@ -54,9 +54,11 @@ Done is better than perfekt?  Perfekt is better than done? Better perfekt than d
 - 🥉 B1 - Italienisch (Grundkenntnisse)
 
 ### Auslandsaufenthalte
+
 #### 🚂 Frankreich
 - 10/2012 - 03/2013 **Sprachkurs** Association CLEF, Sens
 - 09/2008 - 11/2008 **Austausch** Brigitte Sauzay, Reims
+
 #### ✈️ USA
 - 09/2004 - 09/2005 **TE Middle School** Berwyn, PA 19312
 - 09/2003 - 09/2004 **TE Hillside Elementary School** Berwyn, PA 19312
