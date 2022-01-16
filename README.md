@@ -3,7 +3,7 @@
 
 *Questions:*
 
-Done is better than perfekt?  Perfekt is better than done? Better perfekt than done?
+Done is better than perfect?  Perfect is better than done? Better perfect than done?
 
 *Result:*
 
