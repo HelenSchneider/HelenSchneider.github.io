@@ -37,7 +37,7 @@ Done is better than perfekt?  Perfekt is better than done? Better perfekt than d
 - 🔥 11/2015 - 07/2017 **Projekt Simulation und Messtechnik**
   - Institut für Angewandte Informatik, KIT
 - ☢️ 09/2014 - 11/2015 **Projekt Entsorgungsoptionen für radioaktive Reststoffe**
-  - Institut für Technikfolgendabschätzung und Systemanalyse, KIT
+  - Institut für Technikfolgenabschätzung und Systemanalyse, KIT
 
 ### Außeruniversitäre Aktivitäten
 - 🏐 04/2014 - 04/2017 **Übungsleiterin Volleyball und Beachvolleyball** 
@@ -50,7 +50,7 @@ Done is better than perfekt?  Perfekt is better than done? Better perfekt than d
 ### Sprachen
 - 🎈 Deutsch (Muttersprache)
 - 🥇 C1 - Englisch (Verhandlungssicher)
-- 🥈 B2 - Französisch (fließend)
+- 🥈 B2 - Französisch (Fließend)
 - 🥉 B1 - Italienisch (Grundkenntnisse)
 
 ### Auslandsaufenthalte
