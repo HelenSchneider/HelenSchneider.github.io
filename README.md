@@ -51,7 +51,7 @@ Done is better than perfect?  Perfect is better than done? Better perfect than d
 - 🎈 Deutsch (Muttersprache)
 - 🥇 C1 - Englisch (Verhandlungssicher)
 - 🥈 B2 - Französisch (Fließend)
-- 🥉 B1 - Italienisch (Grundkenntnisse)
+- 🥉 A2 - Italienisch (Grundkenntnisse)
 
 ### Auslandsaufenthalte
 
