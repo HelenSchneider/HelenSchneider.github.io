@@ -25,8 +25,8 @@ Done is better than perfect?  Perfect is better than done? Better perfect than d
 ### Praxiserfahrung
 - ☁️ 07/2020 - heute   **Unternehmensberaterin und Softwareentwicklerin**: Frachtwerk GmbH
 - 💿 04/2019 - 04/2020 **Werkstudentin im Bereich der Werkleitung**: Robert Bosch GmbH
-- 💾 03/2018 - 05/2018 **Werkstudentin in der industriellen Logistik**: L'Oréal S.A.
-- 📖 08/2017 - 02/2018 **Praktikantin in der industriellen Logistik**: L'Oréal S.A.
+- 💾 03/2018 - 05/2018 **Werkstudentin in der industriellen Logistik**: L'Oréal Karlsruhe
+- 📖 08/2017 - 02/2018 **Praktikantin in der industriellen Logistik**: L'Oréal Karlsruhe
 
 ###  Ausbildung
 - 🎓 04/2018 - 08/2020 **Master of Science** Wirtschaftsingenieurwesen
