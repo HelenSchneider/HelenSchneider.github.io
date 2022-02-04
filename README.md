@@ -19,8 +19,8 @@ Done is better than perfect?  Perfect is better than done? Better perfect than d
   - Projektvorlesung: *Programmieren kommerzieller Systeme* mit wöchentlichen Projektabgaben
 - 🐍 Python
   - Projektarbeit: *Automated Price Recommendation in Commodity Industries using Machine Learning*: BASF SE
-  - Seminararbeit: *Interactive Analytics: Earable Interaction in Dashboard Environments* TECO, KIT
-  - Seminararbeit: *Text Mining: Vorhersage von Amazon-Kundenbewertungen* AIFB, KIT
+  - Seminararbeit: *Interactive Analytics: Earable Interaction in Dashboard Environments*: TECO, KIT
+  - Seminararbeit: *Text Mining: Vorhersage von Amazon-Kundenbewertungen*: AIFB, KIT
 
 ### Praxiserfahrung
 - ☁️ 07/2020 - heute   **Unternehmensberaterin und Softwareentwicklerin**: Frachtwerk GmbH
