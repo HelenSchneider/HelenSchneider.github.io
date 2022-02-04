@@ -18,7 +18,7 @@ Done is better than perfect?  Perfect is better than done? Better perfect than d
   - Masterthesis: *Process Automation in Virtual Manufacturing Environments using Semantic Web Technologies*
   - Projektvorlesung: *Programmieren kommerzieller Systeme* mit wöchentlichen Projektabgaben
 - 🐍 Python
-  - Projektarbeit: *Automated Price Recommendation in Commodity Industries using Machine Learning*
+  - Projektarbeit: *Automated Price Recommendation in Commodity Industries using Machine Learning*: BASF SE
   - Seminararbeit: *Interactive Analytics: Earable Interaction in Dashboard Environments*
   - Seminararbeit: *Text Mining: Vorhersage von Amazon-Kundenbewertungen*
 
