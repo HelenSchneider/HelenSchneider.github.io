@@ -1,4 +1,4 @@
-# Helen Schneider
+## Helen Schneider
 ## M.Sc. Wirtschaftsingenieurin
 
 *Questions:*
